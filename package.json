@@ -1,6 +1,6 @@
 {
   "name": "yarn-repo-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./src/app.ts",
   "author": "Vosirandr <vosirandr@gmail.com>",
   "license": "MIT",
