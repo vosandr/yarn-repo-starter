@@ -2,11 +2,10 @@
   "name": "yarn-jest-publish-starter",
   "version": "1.0.0",
   "main": "./src/app.ts",
-  "repository": "https://github.com/vosirandr/obj2file.git",
   "author": "Vosirandr <vosirandr@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsx"
+    "start": "tsx src/app"
   },
   "devDependencies": {
     "tsx": "^3.13.0",
