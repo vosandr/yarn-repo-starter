@@ -1,3 +1,1 @@
-export default (msg: string): string => {
-  return `Your text is: "${msg}"`
-}
+console.log('Hello World!')
