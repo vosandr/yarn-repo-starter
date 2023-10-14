@@ -1,5 +1,5 @@
 {
-  "name": "yarn-jest-publish-starter",
+  "name": "yarn-repo-starter",
   "version": "1.0.0",
   "main": "./src/app.ts",
   "author": "Vosirandr <vosirandr@gmail.com>",
